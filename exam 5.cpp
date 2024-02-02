@@ -1,3 +1,16 @@
+
+	/*
+5. Write a Program to handle ambuigity error in Hybrid inheritance.
+
+output:-
+	method from class A
+	method from class B
+	method from class C
+	method from class D
+
+*/
+
+
 #include<iostream>
 using namespace std;
 
