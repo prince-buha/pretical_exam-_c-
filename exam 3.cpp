@@ -1,3 +1,11 @@
+
+	/*
+
+3. Give an example which shows Exception handling of division by zero exception
+
+output:-
+divison is not possible
+*/
 #include<iostream>
 using namespace std;
 
