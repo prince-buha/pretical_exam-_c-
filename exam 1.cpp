@@ -1,4 +1,14 @@
 /*
+/*
+
+
+1. Write a C++ program to print factorial series using recursion.
+
+output:-
+enter your factorial  number:-4
+number is factorial number
+
+*/
 */
 
 #include<iostream>
