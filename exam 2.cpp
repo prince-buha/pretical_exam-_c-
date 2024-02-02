@@ -1,3 +1,42 @@
+/*
+	/*
+
+
+2. Array Of Object (Bank Management System) Requirements(A/C Number , A/C Name , A/C Type , A/C Branch , A/C Balance)
+ Search Record By A/C Number.
+ 
+ output:-
+Enter your A/C Name :-prince
+Enter your A/C type :-minor
+enter your A/C branch :-motavrachha
+Enter your A/C balance :-2330000
+number is 1000000
+name is prince
+type is minor
+beanch is motavrachha
+balance is 2330000
+Enter your A/C Number :-90000000
+Enter your A/C Name :-princ
+Enter your A/C type :-mejer
+enter your A/C branch :-varchha
+Enter your A/C balance :-4500000
+number is 90000000
+name is princ
+type is mejer
+beanch is varchha
+balance is 4500000
+Enter your A/C Number :-4000000
+Enter your A/C Name :-prin
+Enter your A/C type :-minor
+enter your A/C branch :-varchha
+Enter your A/C balance :-4500000
+number is 4000000
+name is prin
+type is minor
+beanch is varchha
+balance is 4500000
+*/
+	
 #include<iostream>
 using namespace std;
 
